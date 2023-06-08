@@ -2,7 +2,13 @@
 
 > ⚠️ USE AT OWN RISK!
 
-Original credits to: <https://github.com/longhorn/longhorn/issues/3207#issuecomment-1384327443> => [@alexnederlof](https://github.com/alexnederlof)
+Only use this if you know what you are doing.
+
+Please read the content of the [k3s-opc.sh](./k3s-opc.sh) to see what it does.
+
+## Credit and Context
+
+Credits to: <https://github.com/longhorn/longhorn/issues/3207#issuecomment-1384327443> => [@alexnederlof](https://github.com/alexnederlof)
 
 ## Usage
 
