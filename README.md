@@ -12,5 +12,11 @@ Paramters:
 - `--debug`
 
 ```bash
-bash <(curl -s http://mywebsite.example/myscript.txt)
+bash <(curl -s https://raw.githubusercontent.com/BrutalBirdie/k3s-orphan-cleaner/master/k3s-opc.sh)
+```
+
+You can add the parameters like this:
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/BrutalBirdie/k3s-orphan-cleaner/master/k3s-opc.sh) --debug
 ```
