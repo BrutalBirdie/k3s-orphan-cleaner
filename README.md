@@ -12,11 +12,11 @@ Paramters:
 - `--debug`
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/BrutalBirdie/k3s-orphan-cleaner/master/k3s-opc.sh)
+bash <(curl -s https://raw.githubusercontent.com/BrutalBirdie/k3s-orphaned-pod-cleaner/master/k3s-opc.sh)
 ```
 
 You can add the parameters like this:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/BrutalBirdie/k3s-orphan-cleaner/master/k3s-opc.sh) --debug
+bash <(curl -s https://raw.githubusercontent.com/BrutalBirdie/k3s-orphaned-pod-cleaner/master/k3s-opc.sh) --debug
 ```
